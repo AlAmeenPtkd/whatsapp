@@ -1,0 +1,246 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 2200px;
+    overflow-x: hidden;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+}
+
+.nav-bar{
+    height: 91px;
+    width: 100%;
+    background-color: #128c7e;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.logo{
+    margin-left: 427px;
+    margin-top: 24px;
+    
+}
+
+.li1{
+    display: inline-block;
+    padding-left: 50px;
+    margin-top: 0px;
+    padding-top: 0;
+    position: relative;
+    bottom: 12px;
+    height: 0;
+}
+
+.ul1{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 10px;
+    height: 0;
+}
+
+h5{
+    color: white;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 0;
+    margin-bottom: 500px;
+    height: 0;
+}
+
+.first{
+    height: 790px;
+    width: 100%;
+    display: inline-block;
+}
+
+.second{
+    margin-top: 238px;
+    margin-left: 557px;
+}
+
+h2{
+    font-size: 33px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    line-height: 16px;
+    margin-bottom: 0;
+}
+
+.par1{
+    font-size: 18px;
+    line-height: 24px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+
+#col{
+    color: grey;
+    font-size: 16px;
+}
+
+.and{
+    color: #128c7e;
+    margin-left: 15px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+
+.third{
+    position: relative;
+    left: 1020px;
+    bottom: 475px;
+}
+
+.fourth{
+    width: 705px;
+    height: 870px;
+    background-color:#D8E8EA;
+    position:relative;
+    bottom: 422px;
+    left: 260px;
+}
+
+.fifth{
+    width: 705px;
+    height: 810px;
+    background-color:#E7F0E4;
+    position:relative;
+    bottom: 1290px;
+    left: 995px;
+    padding-top: 60px;
+}
+
+.heading1{
+    font-size: 34px;
+    font-weight: 700;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-top: 90px;
+    padding-bottom: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.heading123{
+    font-size: 34px;
+    font-weight: 700;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.par2{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-top: 20px;
+}
+
+.text-cent{
+    text-align: center;
+}
+
+.phon-div{
+    text-align: center;
+    width: 400px;
+}
+
+.bus1{
+    color: #39b3ed;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.img1{
+    padding-top: 75px;
+    padding-left: 175px;
+}
+
+.head3{
+    color: #5E5E5E;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-bottom: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.roundiv{
+    border-radius: 300px;
+    height: 325px;
+    width: 325px;
+    background-color: #08c2ac8a;
+    margin: 0 auto 60px auto;
+}
+
+.lastpar{
+    direction: ltr;
+    line-height: 26px;
+    font-size: 18px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #1c1e21;
+    text-align: center;     
+}
+
+.footer{
+    height: 341px;
+    width: 100%;
+    background-color: #273443;
+    position: relative;
+    bottom: 1100px;
+    padding-top: 35px;
+    padding-left: 300px;
+    display: flex;
+}
+
+.btn{
+    position: relative;
+    bottom: 1200px;
+    left: 900px;
+    border-radius: 100px;
+    height: 55px;
+    width: 214px;
+    border-color: #128c7e;
+    border-bottom-color: #128c7e;
+    background-color: white;
+}
+
+.textbox1{
+    height: 300px;
+    width: 250px;
+}
+
+.ul2{
+    list-style: none;
+}
+
+.li2{
+    margin-top: 10px;
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+}
+
+.itemhead{
+    padding-bottom: 20px;
+    font-weight: 500;
+}
+
+.branddiv{
+    display: flex;
+    background-color: #1c1e21;
+    color: white;
+    position: relative;
+    bottom: 1100px;
+    padding-left: 300px;
+    font-weight: 500;
+    font-size: 15px;
+}
